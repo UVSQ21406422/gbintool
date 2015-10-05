@@ -6,3 +6,6 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+
+#Avoid Ressources being pushed on GItHub
+/home/user/Documents/gbintool/src/test/resources
