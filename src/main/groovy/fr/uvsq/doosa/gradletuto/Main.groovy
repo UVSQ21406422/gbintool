@@ -7,6 +7,6 @@ class Main {
     }
 
     String returnHello() {
-        'Hello'
+        'Gradle Tasks'
     }
 }
