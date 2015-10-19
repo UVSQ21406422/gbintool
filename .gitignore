@@ -8,4 +8,4 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 #Avoid Ressources being pushed on GItHub
-/home/user/Documents/gbintool/src/test/resources
+/home/user/Downloads/gbintool/src/test/resources
